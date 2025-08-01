@@ -162,7 +162,7 @@
             <img src="https://cdn.omeda.com/hosted/images/CLIENT_BNP/BNPCD/NEWS-FB.png" alt="ACHR News Logo">
           </div>
           <div class="header-sp">
-            SPONSORED BY <img src="https://www.myclearopinioninsightshub.com/logo/lockup-v.svg" alt="Sponsor Logo">
+            SPONSORED BY <img src="https://www.myclearopinioninsightshub.com/logo/My-Clear-Opinion-Logo-H.svg" alt="Sponsor Logo">
           </div>
         </div>
         <div id="chatBody" class="chat-body">
